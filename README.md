@@ -1,1 +1,1 @@
-# pndas_plotting_challenge
+# pndas-plotting-challenge
